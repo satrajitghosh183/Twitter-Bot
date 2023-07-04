@@ -1,0 +1,97 @@
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 801px;
+  height: 1110px;
+}
+.ellipse-div,
+.frame-child1 {
+  position: absolute;
+  top: 717px;
+  left: -90px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-200);
+  width: 300px;
+  height: 300px;
+}
+.frame-child1 {
+  top: -184px;
+  left: 543.61px;
+  transform: rotate(20.61deg);
+  transform-origin: 0 0;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 3.6%;
+  width: 2.19%;
+  top: 5.41%;
+  right: 94.68%;
+  bottom: 90.99%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.footgame1 {
+  position: absolute;
+  top: 50px;
+  left: 124px;
+  letter-spacing: 0.15em;
+  line-height: 163%;
+  font-weight: 600;
+}
+.line-draw-icon2 {
+  position: absolute;
+  top: 127px;
+  left: 1416px;
+  width: 436px;
+  height: 120.2px;
+}
+.frame-child2,
+.line-draw-icon3 {
+  position: absolute;
+  top: 858px;
+  left: 829px;
+  width: 399px;
+  height: 132.17px;
+}
+.frame-child2 {
+  top: 345px;
+  left: 102px;
+  border-radius: 84px;
+  background-color: #d9d9d9;
+  width: 1717px;
+  height: 490px;
+}
+.breaking-news-cristiano {
+  margin-bottom: 0;
+}
+.breaking-news-cristiano-ronal {
+  margin: 0;
+  padding-left: 32px;
+}
+.breaking-news-cristiano-container {
+  position: absolute;
+  top: 377px;
+  left: 124px;
+  font-size: var(--font-inherit);
+  letter-spacing: 0.15em;
+  line-height: 163%;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 1630px;
+  height: 606px;
+}
+.rectangle-root {
+  position: relative;
+  background-color: var(--color-darkslateblue-100);
+  width: 100%;
+  height: 1110px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
